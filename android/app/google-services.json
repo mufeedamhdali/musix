@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822647436695",
+    "project_id": "musix-cd645",
+    "storage_bucket": "musix-cd645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822647436695:android:465e9c62fbc2d0b44900d2",
+        "android_client_info": {
+          "package_name": "com.mufeeda.musix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxda50NFcYxxXuk8vtGegOtipiOF902kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
